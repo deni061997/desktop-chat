@@ -18,3 +18,15 @@
 ## Главная страница чата
 
 ![текст](https://github.com/deni061997/desktop-chat/blob/main/public/images/MainPageChat.png)
+
+## Открытый чат
+
+![s](https://github.com/deni061997/desktop-chat/blob/main/public/images/OpenChat.png)
+
+## Поиск сообщения и поиск контакта
+
+![s](https://github.com/deni061997/desktop-chat/blob/main/public/images/FIndMFIndC.png)
+
+## Открытый профайл контакта
+
+![s](https://github.com/deni061997/desktop-chat/blob/main/public/images/OpenProfile.png)

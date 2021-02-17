@@ -17,4 +17,4 @@
 
 ## Главная страница чата
 
-![текст]()
+![текст](https://github.com/deni061997/desktop-chat/blob/main/public/images/MainPageChat.png)

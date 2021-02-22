@@ -1,5 +1,7 @@
 # Десктопный чат на React, Redux
 
+**Демо** https://desktop-chat.herokuapp.com/
+
 ## Технологии, использованные при создании чата
 
 - React
